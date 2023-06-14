@@ -6,3 +6,6 @@ lib: [
 bin: [
   "_build/install/default/bin/fch"
 ]
+doc: [
+  "_build/install/default/doc/fch/README.md"
+]
