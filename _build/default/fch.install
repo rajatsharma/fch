@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/fch/META"
+  "_build/install/default/lib/fch/dune-package"
+  "_build/install/default/lib/fch/opam"
+]
+bin: [
+  "_build/install/default/bin/fch"
+]
