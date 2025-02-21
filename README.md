@@ -5,7 +5,7 @@
 ## Build
 
 ```shell
-$ ghc Main.hs
+$ clang++ -std=c++11 main.cpp -o fch
 ```
 
 ## Usage
