@@ -2,10 +2,10 @@
 
 > Git Fetch and Checkout
 
-## Build
+## Install
 
 ```shell
-$ clang++ -std=c++11 main.cpp -o fch
+$ go install github.com/rajatsharma/fch
 ```
 
 ## Usage
